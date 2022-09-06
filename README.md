@@ -5,7 +5,7 @@
 
 ## General Info
 
-It is a cross-platform application made on Flutter which will run on both iOS and Android devices. It takes user's Gender, Height, Weight and Age to calculate the Body-Mass Index of the user with some suggestions. 
+It is a cross-platform application made with Flutter which will run on both iOS and Android devices. It takes user's Gender, Height, Weight and Age to calculate the Body-Mass Index of the user with some suggestions. 
 
 
 ## What I've created
