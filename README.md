@@ -1,4 +1,4 @@
-![App Brewery Banner](https://media-exp1.licdn.com/dms/image/C4D16AQGgtoysl9LJlQ/profile-displaybackgroundimage-shrink_350_1400/0/1651058496749?e=1668038400&v=beta&t=Um1mwKOBd2wEDZpDCFSxSu7ZKq7RMB8oJYM9ZO61gWU)
+![Banner](https://media-exp1.licdn.com/dms/image/C4D16AQGgtoysl9LJlQ/profile-displaybackgroundimage-shrink_350_1400/0/1651058496749?e=1668038400&v=beta&t=Um1mwKOBd2wEDZpDCFSxSu7ZKq7RMB8oJYM9ZO61gWU)
 
 
 # BMI Calculator 💪
